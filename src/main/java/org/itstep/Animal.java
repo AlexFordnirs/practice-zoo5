@@ -16,43 +16,43 @@ public class Animal {
         this.name = name;
     }
 
-    public Integer getAge() {
+    public int getAge() {
         return age;
     }
 
-    public void setAge(Integer age) {
+    public void setAge(int age) {
         this.age = age;
     }
 
-    public Integer getWeight() {
+    public int getWeight() {
         return weight;
     }
 
-    public void setWeight(Integer weight) {
+    public void setWeight(int weight) {
         this.weight = weight;
     }
 
-    public Integer getAviaryNumber() {
+    public int getAviaryNumber() {
         return aviaryNumber;
     }
 
-    public void setAviaryNumber(Integer aviaryNumber) {
+    public void setAviaryNumber(int aviaryNumber) {
         this.aviaryNumber = aviaryNumber;
     }
 
-    public Integer getTimeSpentAtTheZoo() {
+    public int getTimeSpentAtTheZoo() {
         return timeSpentAtTheZoo;
     }
 
-    public void setTimeSpentAtTheZoo(Integer timeSpentattheZoo) {
+    public void setTimeSpentAtTheZoo(int timeSpentattheZoo) {
         this.timeSpentAtTheZoo = timeSpentAtTheZoo;
     }
 
-    public Integer getFoodConsumption() {
+    public int getFoodConsumption() {
         return foodConsumption;
     }
 
-    public void setFoodConsumption(Integer foodConsumption) {
+    public void setFoodConsumption(int foodConsumption) {
         this.foodConsumption = foodConsumption;
     }
 
